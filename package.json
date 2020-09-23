@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "firebase": "^7.20.0",
     "firebase-admin": "^8.12.1",
-    "firebase-functions": "^3.6.2"
+    "firebase-functions": "^3.6.2",
+    "geofire": "^5.0.1"
   }
 }
